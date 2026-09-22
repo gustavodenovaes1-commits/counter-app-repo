@@ -1,3 +1,3 @@
 # counter-app-repo
 
-Counter app
+This is my counter app
